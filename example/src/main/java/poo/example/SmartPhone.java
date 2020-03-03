@@ -1,4 +1,4 @@
-package poo.example;
+﻿package poo.example;
 
 public class SmartPhone extends Celular{
 	
@@ -18,6 +18,7 @@ public class SmartPhone extends Celular{
 		this.pixelesCamara = pixelesCamara;
 		this.tamanioMemoriaInterna = tamanioMemoriaRam;
 		this.tamanioMemoriaExterna = tamaoDisco;
+                //casad12123312asda
 	}
 	// método sobrescrito (override), utilizo código de la clase Celular y añado código que necesito 
 	@Override
