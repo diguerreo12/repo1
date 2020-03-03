@@ -1,4 +1,4 @@
-package poo.example;
+﻿package poo.example;
 
 /**
  * Hello world!
@@ -34,6 +34,7 @@ public class App
 		System.out.println();
 		
 		//método sobrescrito
-		smartphone.informarCaracteristicas();			
+		smartphone.informarCaracteristicas();	
+		//modificacion de archivo y de rama
 	}
 }
